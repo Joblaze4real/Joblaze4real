@@ -45,8 +45,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Joblaze4real&layout=compact&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joblaze4real&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=alx-system_engineering-devops)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=printf)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=CPP)
