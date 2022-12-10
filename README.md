@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joshua Roland @Joblaze4real
+![Joblaze](https://user-images.githubusercontent.com/81047333/205303193-e291ac51-970c-4bb9-935b-7958ebcd60b2.jpg)
 
-    ![Joblaze](https://user-images.githubusercontent.com/81047333/205303193-e291ac51-970c-4bb9-935b-7958ebcd60b2.jpg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=18&pause=1000&color=F7040F&width=500&lines=Hello%2C+I'm+Joshua+Roland+from+Nigeria.+;I'm+a+Medical+Radiographer%2C+and+also+a+Software+Engineer;I'm+currently+a+Backend+Developer%2C+;but+hoping+to+be+a+Full+Stack+Engineer+soon.;I+want+to+collaborate+on+different+projects+with+you;like+C%2C+Java%2C+Javascript%2C+Python%2C+Ruby%2C+Node.js%2C+etc.+And+guess+what%3F;I'm+interested+in+people+too%2C+why+not+reach+out+let's+discuss%3F;I+would+love+to+learn+from+you!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -19,15 +19,34 @@
     
 </div>
 
-- 👀 I’m interested in Software Development - FULL-STACK and People in general!
-- 🌱 I’m currently learning BACKEND Development
-- 💞️ I’m looking to collaborate on different projects on C (Including all its children), Java, Python, Node.js
-- 📫 How to reach me: 
-- https://www.linkedin.com/in/joshua-roland-joblaze/ 
+
+- 📫 Reach me alternatively: 
 - Email: joblaze4real@gmail.com
 - +2349034796762
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Joblaze4real)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+</div>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Joblaze4real&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joblaze4real&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=alx-system_engineering-devops)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=printf)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Joblaze4real&repo=CPP)
