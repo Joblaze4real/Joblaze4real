@@ -7,10 +7,10 @@
   ![](https://komarev.com/ghpvc/?username=Joblaze4real&color=blueviolet&style=plastic)
   
   <div id="badges">
-  <a href="[https://linkedin.com/](https://www.linkedin.com/in/joshua-roland-joblaze/)">
+  <a href="https://www.linkedin.com/in/joshua-roland-joblaze/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://facebook.com/](https://web.facebook.com/dablaze.josh/)">
+  <a href="https://web.facebook.com/dablaze.josh/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://wa.me/2347061355728">
